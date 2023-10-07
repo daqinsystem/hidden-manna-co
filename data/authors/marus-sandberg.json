@@ -1,0 +1,9 @@
+{
+  "name": "Marcus Sandberg",
+  "image" : "images/avatars/Marcus-Sandberg.jpg",
+  "bio": "Chief Technical Officer",
+  "social": [
+    { "links": "https://hmc.k.vu/author/marcussandberg" },
+    { "email": "mailto:marcussandberg33@gmail.com" }
+  ]
+}
