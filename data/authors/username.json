@@ -1,0 +1,17 @@
+{
+  "name": "User Name",
+  "image" : "images/avatars/username.jpg",
+  "bio": "Theme Creator",
+  "social": [
+    { "links": "https://hmc.k.vu/author/username" },
+    { "email": "mailto:user@name.com" },
+    { "linkedin": "https://linkedin.com/in/username" },
+    { "twitter": "https://twitter.com/username" },
+    { "instagram": "https://instagram.com/username" },
+    { "medium": "https://medium.com/@username" },
+    { "github": "https://github.com/username" },
+    { "goodreads": "http://goodreads.com/username" },
+    { "keybase": "https://keybase.io/username" },
+    { "reddit": "https://reddit.com/user/username" }
+  ]
+}
